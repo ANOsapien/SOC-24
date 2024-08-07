@@ -5,3 +5,4 @@ A Guided Tour to PyTorch
 <ol>ResNet </ol>
 <ol>GAN</ol>
 <ol>Autoencoders</ol>
+<ol>Variational Autoencoders</ol>
